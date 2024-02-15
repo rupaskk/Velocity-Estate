@@ -45,7 +45,7 @@ Home Seller / Renter
 
 # Author
 
-Made with ❤️ by <b>Samarth Verma</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px"> Get in touch!
+Made with ❤️ by <b>Rupa Kumari</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px"> Get in touch!
 
 [LINKEDIN](https://www.linkedin.com/in/samarth2804/)
 
